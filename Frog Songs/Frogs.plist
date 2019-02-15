@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Call</key>
+		<string>Barking.Treefrog</string>
+		<key>Name</key>
+		<string>Barking Treefrog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Bullfrog2</string>
+		<key>Name</key>
+		<string>American Bullfrog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Copes_Gray_Treefrog</string>
+		<key>Name</key>
+		<string>Cope&apos;s Gray Treefrog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Cuban.Treefrog</string>
+		<key>Name</key>
+		<string>Cuban Treefrog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Eastern.Narrowmouth.Toad</string>
+		<key>Name</key>
+		<string>Eastern Narrowmouth Toad</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Eastern.Spadefoot.Toad</string>
+		<key>Name</key>
+		<string>Eastern Spadefoot Toad</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Gopher.Frog</string>
+		<key>Name</key>
+		<string>Gopher Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Green.Treefrog</string>
+		<key>Name</key>
+		<string>Green Treefrog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Greenhouse.Frog</string>
+		<key>Name</key>
+		<string>Greenhouse Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Little.Grass.Frog</string>
+		<key>Name</key>
+		<string>Little Grass Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Oak.Toad</string>
+		<key>Name</key>
+		<string>Oak Toad</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Ornate.Chorus.Frog</string>
+		<key>Name</key>
+		<string>Ornate Chorus Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Pig.Frog</string>
+		<key>Name</key>
+		<string>Pig Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Pine.Woods.Treefrog</string>
+		<key>Name</key>
+		<string>Pine Woods Treefrog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>river frog</string>
+		<key>Name</key>
+		<string>River Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Southern.Chorus.Frog</string>
+		<key>Name</key>
+		<string>Southern Chorus Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Southern.Leopard.Frog</string>
+		<key>Name</key>
+		<string>Southern Leopard Frog</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Southern.Toad</string>
+		<key>Name</key>
+		<string>Southern Toad</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Spring_Peeper</string>
+		<key>Name</key>
+		<string>Spring Peeper</string>
+	</dict>
+	<dict>
+		<key>Call</key>
+		<string>Squirrel.Treefrog</string>
+		<key>Name</key>
+		<string>Squirrel Treefrog</string>
+	</dict>
+</array>
+</plist>
